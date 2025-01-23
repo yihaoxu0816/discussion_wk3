@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(255, 254, 247);
+    font-family: Helvetica, sans-serif;
+    line-height: 40px;
+    margin: 30px;
+}
+
+h1, h2, h3 {
+    font-weight: bold;
+    color: brown;
+
+}
+
+h1 {
+    font-size: 30px;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+img {
+    max-width: 500px;
+    height: auto;
+    border: 5px solid brown;
+    border-radius: 10px;
+    margin: auto;
+}
